@@ -1,2 +1,2 @@
 python-dotenv
-livekit-agents 
+livekit-agents>=1.2.0

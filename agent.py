@@ -11,8 +11,6 @@ from livekit.plugins import google
 
 import os
 
-if os.environ.get("ENV", "development") == "development":
-    load_dotenv()
 
 class Assistant(Agent):
     def __init__(self) -> None:

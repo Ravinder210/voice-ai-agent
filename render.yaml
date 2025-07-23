@@ -9,7 +9,7 @@ services:
   runtime: docker
 
   # Free plan is not available for private services
-  plan: starter
+  plan: Free
 
   # Environment variables are stored in a group
   # created in the Render dashboard.

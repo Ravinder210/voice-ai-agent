@@ -1,9 +1,9 @@
 services:
 - type: pserv
-  repo: https://github.com/livekit-examples/agent-deployment
+  repo: https://github.com/Ravinder210/voice-ai-agent.git
 
   # Change this to the path containing your Dockerfile
-  rootDir: python-agent-example-app
+  rootDir: voice-ai-agent
 
   name: agent-example
   runtime: image
